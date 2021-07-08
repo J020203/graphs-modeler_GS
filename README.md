@@ -22,7 +22,7 @@ Can be found in: https://graphstream-project.org/download/
 
 - https://graphstream-project.org/
 
-### Installation
+### Installation - Version 2.0
 - https://graphstream-project.org/doc/Install/
 ### Getting Started
 - https://graphstream-project.org/doc/Tutorials/Getting-Started/
