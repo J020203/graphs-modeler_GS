@@ -12,8 +12,9 @@ The indicated libraries are necessary for the program to work correctly.
 
 Can be found in: https://graphstream-project.org/download/
 
-## <img src="https://img.youtube.com/vi/XX5rRF6uxow/1.jpg" width="40" height="40" /> GraphStream
+## GraphStream
 ---
+<img src="https://img.youtube.com/vi/XX5rRF6uxow/1.jpg" width="40" height="40" />
 GraphStream is a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them.
 - https://graphstream-project.org/
 
