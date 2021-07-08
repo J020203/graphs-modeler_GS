@@ -14,7 +14,9 @@ Can be found in: https://graphstream-project.org/download/
 
 ## GraphStream
 ---
+GraphStream is a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them.
 - https://graphstream-project.org/
+
 ### Installation
 - https://graphstream-project.org/doc/Install/
 ### Getting Started
