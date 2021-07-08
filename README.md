@@ -15,7 +15,7 @@ Can be found in: https://graphstream-project.org/download/
 ## GraphStream
 ---
 <p>
-<img src="https://img.youtube.com/vi/XX5rRF6uxow/1.jpg" width="120" height="90" align="left"/> GraphStream is a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them. GraphStream provides a way to handle the graph evolution in time. This means handling the way nodes and edges are added and removed, and the way data attributes may appear, disappear and evolve.
+<img src="https://img.youtube.com/vi/XX5rRF6uxow/1.jpg" width="120" height="90" align="left"/> GraphStream is a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them. GraphStream provides a way to handle the graph evolution in time. This means handling the way nodes and edges are added and removed, and the way data attributes may appear, disappear and evolve. The goal of the library is to provide a way to represent graphs and work on it.
 </p>
 
 - VideoDemo: https://www.youtube.com/watch?v=XX5rRF6uxow
