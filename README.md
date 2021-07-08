@@ -1,12 +1,13 @@
-## graphs-modeler_GS
+# graphs-modeler_GS
+---
 Java program Integrated with GraphStream to model graphs
 
-# Dependencies
+## Dependencies
 - gs-algo-2.0.jar
 - gs-core-2.0.jar
 - gs-ui-swing-2.0.jar
 
 Can be found in: https://graphstream-project.org/download/
 
-## GraphStream
+# GraphStream
 https://graphstream-project.org/
