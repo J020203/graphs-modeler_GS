@@ -11,6 +11,7 @@ Can be found in: https://graphstream-project.org/download/
 # GraphStream
 ---
 - https://graphstream-project.org/
+## Installation
 - https://graphstream-project.org/doc/Install/
 ## Getting Started
 - https://graphstream-project.org/doc/Tutorials/Getting-Started/
