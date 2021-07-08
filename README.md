@@ -8,14 +8,14 @@ Java program Integrated with GraphStream to model graphs
 
 Can be found in: https://graphstream-project.org/download/
 
-# GraphStream
+## GraphStream
 ---
 - https://graphstream-project.org/
-## Installation
+### Installation
 - https://graphstream-project.org/doc/Install/
-## Getting Started
+### Getting Started
 - https://graphstream-project.org/doc/Tutorials/Getting-Started/
-## Graph Visualisation
+### Graph Visualisation
 - https://graphstream-project.org/doc/Tutorials/Graph-Visualisation/
-## CSS Styling
+### CSS Styling
 - https://graphstream-project.org/doc/Advanced-Concepts/GraphStream-CSS-Reference/
