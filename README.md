@@ -2,6 +2,8 @@
 Java program Integrated with GraphStream to model graphs
 
 ## Dependencies
+In order for the program to work properly, it needs to have the indicated libraries installed.
+
 - gs-algo-2.0.jar
 - gs-core-2.0.jar
 - gs-ui-swing-2.0.jar
