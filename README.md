@@ -1,4 +1,4 @@
-# graphs-modeler_GS
+## graphs-modeler_GS
 Java program Integrated with GraphStream to model graphs
 
 # Dependencies
@@ -8,5 +8,5 @@ Java program Integrated with GraphStream to model graphs
 
 Can be found in: https://graphstream-project.org/download/
 
-# GraphStream
+## GraphStream
 https://graphstream-project.org/
