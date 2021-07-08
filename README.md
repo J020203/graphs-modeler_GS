@@ -1,7 +1,7 @@
 # graphs-modeler_GS
 Java program Integrated with GraphStream to model graphs
 
-<img src="https://raw.githubusercontent.com/J020203/graphs-modeler_GS/main/multimediaFiles/graphCities.gif" width="40" height="40" />
+![](https://raw.githubusercontent.com/J020203/graphs-modeler_GS/main/multimediaFiles/graphCities.gif)
 
 ## Dependencies
 The indicated libraries are necessary for the program to work correctly.
